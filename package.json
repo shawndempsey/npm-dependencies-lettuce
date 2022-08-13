@@ -1,0 +1,9 @@
+{
+  "name": "npm-dependencies-lettuce",
+  "version": "1.0.0",
+  "description": "lettuce",
+  "main": "src/index.js",
+  "repository": "https://github.com/shawndempsey/npm-dependencies-lettuce.git",
+  "author": "Shawn Dempsey <shawn@shawndempsey.ca>",
+  "license": "MIT"
+}
